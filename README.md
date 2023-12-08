@@ -15,6 +15,15 @@ A few simple steps:
 - Close reWASD (if open), Extract the dll's provided [here](https://github.com/RedDot-3ND7355/reWASD/releases) into your reWASD installation folder
 - Launch reWASD and should be cracked & all features unlocked!
 
+## If the crack doesn't work
+- Install the ENGLISH Version IF unblocking the dll's doesn't work.
+- Please UNBLOCK the DLL's from the properties.
+
+![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/24730f03-b42a-4257-ae2e-eaf2c7325966)
+![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/7e4e8273-aef2-441f-9218-7c1f6f114619)
+
+**If the crack still doesn't work, please open a ticket!**
+
 ## Special thanks to the following...
 - [EugeneSunrise](https://github.com/EugeneSunrise) - For pointing out where checks were being done
 - CORKY - For pointing out that the libs for reWASD aren't secured
