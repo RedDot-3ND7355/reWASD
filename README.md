@@ -1,2 +1,22 @@
-# reWASD
-reWASD Crack for x86/x64
+# reWASD (7.0.0.8447)
+- reWASD Crack for x86/x64 ONLY!
+- ARM Crack linked here: [ARM Crack Repo](https://github.com/EugeneSunrise/reWASD)
+
+# Crack Preview
+
+![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/99878f34-03e0-4147-a7d0-042feaf8681b)
+![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/8e443283-abd5-4ad5-876c-8bd25705e346)
+
+# HOW TO USE
+[Download the files located in releases of this repo. All files needed are provided there!](https://github.com/RedDot-3ND7355/reWASD/releases)
+
+A few simple steps:
+- Check if you have the version 7.0.0.8447 (if not, uninstall then install provided installer [here](https://github.com/RedDot-3ND7355/reWASD/releases))
+- Close reWASD (if open), Extract the dll's provided [here](https://github.com/RedDot-3ND7355/reWASD/releases) into your reWASD installation folder
+- Launch reWASD and should be cracked & all features unlocked!
+
+## Special thanks to the following...
+- [EugeneSunrise](https://github.com/EugeneSunrise) - For pointing out where checks were being done
+- CORKY - For pointing out that the libs for reWASD aren't secured
+
+**This started as a personal MITM project to figure out how the licensing was being checked and modify the packets on the go, until I got sick of writing addons then started looking for a permanent way to activate the license and it's features**
