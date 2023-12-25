@@ -1,3 +1,11 @@
+# NOTICE
+This crack ONLY works for licensed users. Features will be unlocked for those who own a legitimate license.
+I'm currently working on a license bypass method for those who don't own one.
+Will update the repo once I got a working approach.
+
+**Current Progress**
+![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/dd1824de-9717-4995-834f-15cc1e795f6f)
+
 # reWASD (7.0.0.8447)
 - reWASD Crack for x86/x64 ONLY!
 - ARM Crack linked here: [ARM Crack Repo](https://github.com/EugeneSunrise/reWASD)
