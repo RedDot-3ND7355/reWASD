@@ -1,11 +1,3 @@
-# NOTICE
-This crack ONLY works for licensed users. Features will be unlocked for those who own a legitimate license.
-I'm currently working on a license bypass method for those who don't own one.
-Will update the repo once I got a working approach.
-
-**Current Progress**
-![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/dd1824de-9717-4995-834f-15cc1e795f6f)
-
 # reWASD (7.0.0.8447)
 - reWASD Crack for x86/x64 ONLY!
 - ARM Crack linked here: [ARM Crack Repo](https://github.com/EugeneSunrise/reWASD)
@@ -33,7 +25,8 @@ A few simple steps:
 **If the crack still doesn't work, please open a ticket!**
 
 ## Special thanks to the following...
-- [EugeneSunrise](https://github.com/EugeneSunrise) - For pointing out where checks were being done
+- [EugeneSunrise](https://github.com/EugeneSunrise) - Litteraly shoulder to shoulder, worked hours together <3
 - CORKY - For pointing out that the libs for reWASD aren't secured
-
+- Jitex Project - For making the crack possible <3
+  
 **This started as a personal MITM project to figure out how the licensing was being checked and modify the packets on the go, until I got sick of writing addons then started looking for a permanent way to activate the license and it's features**
