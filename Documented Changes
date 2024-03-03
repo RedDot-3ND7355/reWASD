@@ -1,20 +1,14 @@
-File: reWASDCommon.dll
+File: reWASDCommon.dll (License & Features)
 
 Edit 1:
--> XBEliteWPF.Infrastructure.LicenseData
-Force LicenseData function to return true for all boolean features
+-> Merged Jitex with reWASDCommon/dll
 
 Edit 2:
--> XBEliteWPF.Services.Interfaces.ILicensingService
-Make License and Features bool always return true
-
-Edit 3:
--> reWASDCommon.Infrastructure.ServiceResponseWrapper
-Force boolean IsResponseValid to always return true
+-> Added Reference to Jitex functions to use methodresolver and interceptor to return features and license always true
 
 ===================================================================
 
-File: reWASD.dll
+File: reWASD.dll (Gui and Behaviour)
 
 Edit 1:
 -> reWASDUI.License.Features.LicenseFeature
