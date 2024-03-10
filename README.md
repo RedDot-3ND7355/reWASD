@@ -1,6 +1,12 @@
-# reWASD (7.0.0.8447)
-- reWASD Crack for x86/x64 ONLY!
+# reWASD (7.1.0.8668)
+- reWASD Crack for x86/x64 ONLY (BETA CRACK)!
 - ARM Crack linked here: [ARM Crack Repo](https://github.com/EugeneSunrise/reWASD)
+
+## NOTICE
+
+The crack for 7.1.0.8668 is still in progress and only covers the license, trial popup and anti-kill.
+The Features are not cracked yet, out method used for 7.0 doesn't quite work for 7.1 and requires a bit more fine-tuning.
+So until then, this crack will stay in BETA. Thanks <3
 
 # Crack Preview
 
@@ -11,7 +17,7 @@
 [Download the files located in releases of this repo. All files needed are provided there!](https://github.com/RedDot-3ND7355/reWASD/releases)
 
 A few simple steps:
-- Check if you have the version 7.0.0.8447 (if not, uninstall then install provided installer [here](https://github.com/RedDot-3ND7355/reWASD/releases))
+- Check if you have the version 7.1.0.8668 (if not, uninstall then install provided installer [here](https://github.com/RedDot-3ND7355/reWASD/releases))
 - Close reWASD (if open), Extract the dll's provided [here](https://github.com/RedDot-3ND7355/reWASD/releases) into your reWASD installation folder
 - Launch reWASD and should be cracked & all features unlocked!
 
