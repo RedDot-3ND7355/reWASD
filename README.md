@@ -1,5 +1,5 @@
 # reWASD (7.1.0.8668)
-- reWASD Crack for x86/x64 ONLY (BETA CRACK)!
+- reWASD Crack for x86/x64 ONLY (BETA CRACK V2)!
 - ARM Crack linked here: [ARM Crack Repo](https://github.com/EugeneSunrise/reWASD)
 
 ## NOTICE
