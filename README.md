@@ -33,6 +33,7 @@ A few simple steps (Applicable for all cracks):
 - Launch reWASD and should be cracked & all features unlocked!
 
 ## If the crack doesn't work
+- USE A WORKING FULL CRACK, DONT USE BETA CRACKS IF YOU DONT OWN A LICENSE.
 - Install the ENGLISH Version IF unblocking the dll's doesn't work.
 - Please UNBLOCK the DLL's from the properties.
 
