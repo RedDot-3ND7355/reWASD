@@ -17,8 +17,6 @@
 - Features Unlocked
 - [BETA Crack V2 Download here](https://github.com/RedDot-3ND7355/reWASD/tree/7.1.0.8668v2)
 
-## reWASD 
-
 # Crack Preview
 
 ![image](https://github.com/RedDot-3ND7355/reWASD/assets/6676924/99878f34-03e0-4147-a7d0-042feaf8681b)
