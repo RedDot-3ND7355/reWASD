@@ -12,7 +12,7 @@
 - Features Unlocked
 - [Download here](https://github.com/RedDot-3ND7355/reWASD/releases/tag/7.0.0.8447v2)
 
-## reWASD (7.1.0.8668) X86/X64 [Partial Crack]
+## reWASD (7.1.0.8668) X86/X64 [Partial Crack - no longer working]
 - Requires valid License
 - Features Unlocked
 - [BETA Crack V2 Download here](https://github.com/RedDot-3ND7355/reWASD/tree/7.1.0.8668v2)
@@ -31,6 +31,7 @@ A few simple steps (Applicable for all cracks):
 - Launch reWASD and should be cracked & all features unlocked!
 
 ## If the crack doesn't work
+- reWASD (7.1.0.8668) [and above for those who tried] beta crack is no longer working. Please use 7.0 Crack instead!!
 - USE A WORKING FULL CRACK, DONT USE BETA CRACKS IF YOU DONT OWN A LICENSE.
 - Install the ENGLISH Version IF unblocking the dll's doesn't work.
 - Please UNBLOCK the DLL's from the properties.
